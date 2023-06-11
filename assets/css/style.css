@@ -1,0 +1,15 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.imagen-logo {
+    height: 40px;
+}
+
+.tamaño-imagen{
+    height: 256px;
+}
+
+.logo-negro-cuppon{
+  width: 85px;
+}
